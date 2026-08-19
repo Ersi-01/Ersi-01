@@ -1,25 +1,16 @@
+Welcome In ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
+This is my little GitHub corner.
 
-<!--
-**Ersi-01/Ersi-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like making small, useful things and slowly turning ideas into projects. Some are polished, some are experiments, and some are little practice pieces that taught me something important.
 
-Here are some ideas to get you started:
+Here you will find the projects I want to keep close: my school work, deployed apps or webs and tools I made while learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi, I'm Ersi 👋
-
+I am always enthusiastic to learn more, improve my skills, and build better things step by step. Tiny progress still counts. ᕙ( •̀ ᗜ •́)ᕗ
 ---
-
-### 🚀 Projects
+Currently learning	web development, software development, cybersecurity and cleaner project structure
+Currently making	fun small projects, resource collections, and practical apps
+Main Shelf ୨୧
 
 **[E-commerce App]** — Mobile shopping app built with React Native (Expo Router SDK 54), TypeScript, and a custom design system. Features wishlist, filtering, and product details.
 
@@ -31,13 +22,25 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧰 Tech Stack
+Tech Toolbox ٩(ˊᗜˋ*)و
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  
+Technologies I know or I'm learning, practice with, and keep getting better at one project at a time.
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
+</p>
+
+Little Note ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
+
+Thanks for visiting my tiny code corner. I am still learning, still building, and still excited for whatever I get to make next.
