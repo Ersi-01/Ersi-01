@@ -1,12 +1,13 @@
-Welcome In ૮ ˶ᵔ ᵕ ᵔ˶ ა
+Welcome  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 This is my little GitHub corner.
 
 I like making small, useful things and slowly turning ideas into projects. Some are polished, some are experiments, and some are little practice pieces that taught me something important.
 
-Here you will find the projects I want to keep close: my school work, deployed apps or webs and tools I made while learning.
+Here you will find the projects I want to keep close: my school work,
+deployed apps and websites, and tools I made while learning.
 
-I am always enthusiastic to learn more, improve my skills, and build better things step by step. Tiny progress still counts. ᕙ( •̀ ᗜ •́)ᕗ
+I am always enthusiastic to learn more, improve my skills, and build better things step by step. Tiny progress still counts. ᕙ( •̀ ᗜ´•́)ᕗ
 ---
 Currently learning	web development, software development, cybersecurity and cleaner project structure
 Currently making	fun small projects, resource collections, and practical apps
@@ -39,6 +40,8 @@ Technologies I know or I'm learning, practice with, and keep getting better at o
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" alt="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c++-original.svg" width="45" height="45" alt="C++"/>
 </p>
 
 Little Note ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
