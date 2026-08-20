@@ -44,13 +44,13 @@ Main Shelf ୨୧
 Tech Toolbox ٩(ˊᗜˋ*)و
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,c&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,python,&theme=light" />
 </a>
 
 <br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,supabase,firebase&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,nodejs,nestjs,nextjs,supabase,firebase,git,github&theme=light" />
 </a>
 
 <br>
