@@ -26,13 +26,16 @@ Tiny progress still counts. ᕙ( •̀ ᗜˊ•́)ᕗ
 </table>
 
 <br>
+
+---
+
 Main Shelf ୨୧
 
-**[E-commerce App]** — Mobile shopping app built with React Native (Expo Router SDK 54), TypeScript, and a custom design system. Features wishlist, filtering, and product details.
+**E-commerce App** — Mobile shopping app built with React Native (Expo Router SDK 54), TypeScript, and a custom design system. Features wishlist, filtering, and product details.
 
 
 
-**[Photo Fetcher]** — Image browsing app using the Picsum Photos API, built with HTML/CSS/JS and later ported to React.
+**Photo Fetcher** — Image browsing app using the Picsum Photos API, built with HTML/CSS/JS and later ported to React.
 
 
 
@@ -50,13 +53,13 @@ Tech Toolbox ٩(ˊᗜˋ*)و
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,supabase,firebase&theme=light" />
 </a>
 
-<br><br>
+<br>
 
 <sub>
 Technologies I know or I'm learning, practice with, and keep getting better at one project at a time.
 </sub>
-
 </div>
+<br><br>
 Little Note ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
-
+<br>
 Thanks for visiting my tiny code corner. I am still learning, still building, and still excited for whatever I get to make next.
