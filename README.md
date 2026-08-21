@@ -44,7 +44,7 @@ Main Shelf ୨୧
 Tech Toolbox ٩(ˊᗜˋ*)و
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,python,postgresql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,python,postgresql,figma&theme=light" />
 </a>
 
 <br>
