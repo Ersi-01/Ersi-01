@@ -31,11 +31,11 @@ Tiny progress still counts. ᕙ( •̀ ᗜˊ•́)ᕗ
 
 Main Shelf ୨୧
 
-**E-commerce App** — Mobile shopping app built with React Native (Expo Router SDK 54), TypeScript, and a custom design system. Features wishlist, filtering, and product details.
+**E-commerce App** — Mobile shopping app built with React Native (Expo Router SDK 54), TypeScript, and a custom design system. Features wishlist, filtering, catalog, checkout, and product details.
 
 
 
-**Photo Fetcher** — Image browsing app using the Picsum Photos API, built with HTML/CSS/JS and later ported to React.
+**Photo Fetcher** — Image browsing app using the Picsum Photos API, built with HTML/CSS/JS.
 
 
 
