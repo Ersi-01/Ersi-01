@@ -3,7 +3,7 @@ Welcome  ૮ ˶ᵔ ᵕ ᵔ˶ ა
 This is my little GitHub corner.
 
 I like making small, useful things and slowly turning ideas into projects. Some are polished, some are experiments, and some are little practice pieces that taught me something important.
-
+˚₊‧ ୨୧ ‧₊˚
 Here you will find the projects I want to keep close: my school work,
 deployed apps and websites, and tools I made while learning.
 
